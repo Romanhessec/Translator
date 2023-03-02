@@ -1,0 +1,49 @@
+[
+  {
+    "word": "el gato",
+    "word_en": "cat",
+    "type": "noun",
+    "singular": [
+      "gato"
+    ],
+    "plural": [
+      "gatito"
+    ],
+    "definitions": [
+      {
+        "dict": "Diccionario de la Real Academia Española",
+        "dictType": "synonyms",
+        "year": 1991,
+        "text": [
+          "el felino",
+          "el gatito"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "vamos",
+    "word_en": "walk",
+    "type": "verb",
+    "singular": [
+      "voy",
+      "vas",
+      "va"
+    ],
+    "plural": [
+      "vamos",
+      "vais",
+      "van"
+    ],
+    "definitions": [
+      {
+        "dict": "Diccionario de la Real Academia Española",
+        "dictType": "definitions",
+        "year": 1991,
+        "text": [
+          "Moverse de un lugar hacia otro apartado de la persona que habla"
+        ]
+      }
+    ]
+  }
+]
